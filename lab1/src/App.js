@@ -1,18 +1,7 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import Greeting from "./js/lab2/greeting.js";
+import Response from "./js/lab2/response.js";
 import './App.css';
-
-function Greeting(){
-  return (
-    <h1>Welcome New Galaxy!</h1>
-  )
-}
-
-function Response() {
-  return (
-    <h2>Thank You!</h2>
-  );
-} 
 
 function App() {
   return (
@@ -24,5 +13,3 @@ function App() {
 }
 
 export default App;
-
-//<Response />
