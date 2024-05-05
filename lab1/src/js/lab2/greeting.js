@@ -1,6 +1,6 @@
 function Greeting(){
     return (
-      <h1>Welcome New Galaxy!</h1>
+      <h1 className="text-3xl font-bold">Welcome New Galaxy!</h1>
     )
 }
 

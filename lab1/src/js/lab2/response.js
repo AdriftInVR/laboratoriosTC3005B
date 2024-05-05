@@ -1,6 +1,6 @@
 function Response() {
   return (
-    <h2>Thank You!</h2>
+    <h2 className="text-2xl font-bold">Thank You!</h2>
   );
 } 
 
